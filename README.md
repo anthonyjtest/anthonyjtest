@@ -3,7 +3,7 @@
 <h2>👨‍💻 Student Geo-Information Science Projects:</h2>
 
 - <b>Deep Learning Practice </b>
-  - [Practicing Land Cover Classification](GitURL)
+  - [Practicing Land Cover Classification](https://github.com/anthonyjtest/Project1)
 
 <h2> 🤳 Connect with me:</h2>
 
