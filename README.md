@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Student Geo-Information Science Projects:</h2>
 
-- <b>Deep Learning Practice (AlgoExpert)</b>
+- <b>Deep Learning Practice </b>
   - [Practicing Land Cover Classification](GitURL)
 
 <h2> 🤳 Connect with me:</h2>
