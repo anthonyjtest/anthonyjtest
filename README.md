@@ -1,6 +1,6 @@
 <h1>Hi, I'm Anthony! <br/><a 
 
-<h2>👨‍💻 Student Geo-Information Science Projects:</h2>
+<h2>👨‍💻 MSc Student Geo-Information Science Projects:</h2>
 
 - <b>Deep Learning Practice </b>
   - [Practicing Land Cover Classification](https://github.com/anthonyjtest/Project1)
